@@ -12,7 +12,7 @@ import '../features/auth/register_page.dart';
 // MAIN PAGES
 import '../features/home/home_page.dart';
 import '../features/learn/learn_page.dart';
-import '../features/leaderboard/leaderboard_page.dart';
+import '../features/leaderboard/leaderdoard_page.dart';
 import '../features/lessons/lessons_page.dart';
 import '../features/lessons/module_lessons_page.dart';
 import '../features/profile/profile_page.dart';
